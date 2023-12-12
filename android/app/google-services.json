@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158569281547",
+    "project_id": "fahad-login-auth1",
+    "storage_bucket": "fahad-login-auth1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158569281547:android:725e66fc3dfc09f0b96f0e",
+        "android_client_info": {
+          "package_name": "com.fahadtheme.firebase_auth1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNWMXyTeEibirFk1jsnrWH6fpxYUbboyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
